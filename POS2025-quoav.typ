@@ -48,3 +48,7 @@ funkčnost způsobem, stanoveným cvičícím/tutorem.
 = Topologie F
 
 #figure(image("assets/topologie.png"))
+
+= Ekvivalentní L3 topologie
+
+#figure(image("assets/l3topologie.png"))
