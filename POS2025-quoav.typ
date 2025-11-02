@@ -7,8 +7,8 @@
   author: "Adam Cvikl (CVI0014), Ondřej Kaňák (KAN0313)",
   date: datetime(year: 2025, month: 11, day: 1),
   date-format: "[day padding:none].[month padding:zero].[year repr:full]",
-  abstract: text(hyphenate: false)[
-    VYSOKÁ ŠKOLA BÁŇSKÁ - TECHNICKÁ UNIVERZITA OSTRAVA
+  abstract: text(hyphenate: false, size: 11pt)[
+    VYSOKÁ ŠKOLA BÁŇSKÁ - TECHNICKÁ UNIVERZITA OSTRAVA\
     FAKULTA ELEKTROTECHNIKY A INFORMATIKY
   ],
   figure-index: (enabled: false),
