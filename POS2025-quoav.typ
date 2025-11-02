@@ -43,8 +43,6 @@ funkčnost způsobem, stanoveným cvičícím/tutorem.
   [Směrovací protokol:], [OSPF],
 )
 
-\
-
 = Topologie F
 
 #figure(image("assets/topologie.png"))
