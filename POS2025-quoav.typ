@@ -111,3 +111,11 @@ funkčnost způsobem, stanoveným cvičícím/tutorem.
 DNS segment S1 (PC3)
 
 Adresa DNS: 129.120.112.254
+
+= Adresování IPv4 a IPv6 ve fyzické topologii
+
+#figure(image("assets/adresovani-ve-fyzicke.png"))
+
+= Adresování IPv4 a IPv6 v L3 topologii
+
+#figure(image("assets/adresovani-v-l3.png"))
